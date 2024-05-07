@@ -1,1 +1,1 @@
-FROM sparkflows/spark-operator:3.0.0
+FROM k8s.gcr.io/kube-apiserver:v1.19.9
