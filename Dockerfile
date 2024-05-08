@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/coredns:1.7.0
+FROM gcr.io/k8s-minikube/storage-provisioner:v5
