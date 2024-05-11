@@ -1,1 +1,1 @@
-FROM apache/yunikorn:scheduler-1.5.0
+FROM apache/yunikorn:web-1.5.0
