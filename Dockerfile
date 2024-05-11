@@ -1,1 +1,1 @@
-FROM docker pull apache/yunikorn:admission-1.5.0
+FROM  apache/yunikorn:admission-1.5.0
