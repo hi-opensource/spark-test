@@ -1,1 +1,1 @@
-FROM apache/spark:v3.1.1
+FROM volcanosh/vc-controller-manager:v1.9.0
