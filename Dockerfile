@@ -1,1 +1,1 @@
-FROM volcanosh/vc-controller-manager:v1.9.0
+FROM volcano/volcanosh/vc-scheduler:v1.9.0
