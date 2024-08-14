@@ -1,1 +1,1 @@
-FROM volcanosh/vc-webhook-manager:v1.9.0
+FROM docker.io/gocrane/craned:v0.10.0
