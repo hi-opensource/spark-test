@@ -1,1 +1,1 @@
-FROM docker.io/gocrane/stress-ng:v0.12.09
+FROM docker.io/gocrane/crane-agent:v0.10.0
