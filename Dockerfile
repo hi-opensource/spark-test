@@ -1,1 +1,1 @@
-FROM docker.io/gocrane/crane-agent:v0.10.0
+FROM alpine:3.13.5
