@@ -1,1 +1,1 @@
-FROM conda-forge/mambaforge:latest
+FROM dragonflyoss/supernode:1.19.0
