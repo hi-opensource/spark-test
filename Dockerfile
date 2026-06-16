@@ -1,1 +1,1 @@
-FROM dragonflyoss/supernode:1.19.0
+FROM ghcr.io/kata-containers/kata-deploy:3.31.0
