@@ -1,1 +1,1 @@
-FROM registry-cn-zhangjiakou-vpc.ack.aliyuncs.com/acs/code-interpreter:v1.6
+FROM ghcr.io/kata-containers/kata-deploy:3.31.0
